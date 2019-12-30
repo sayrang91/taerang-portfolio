@@ -58,10 +58,10 @@ const Player = (props) => {
   class App extends React.Component {
     state = {
       players: [
-        {name: 'LDK', id: 1},
-        {name: 'HONG', id: 2},
-        {name: 'KIM', id: 3},
-        {name: 'PARK', id: 4},
+        {name: 'SEO', id: 1},
+        {name: 'TAE', id: 2},
+        {name: 'RANG', id: 3},
+        {name: 'TEST', id: 4},
       ]
     };
     
