@@ -1,7 +1,7 @@
 const Header = (props) => {
     return(
         <header>
-            <h1>점수</h1>
+            <h1>점수d</h1>
             <sapn className='stats'>Player: {props.totalPlayers}</sapn>
         </header>
  
