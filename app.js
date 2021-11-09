@@ -23,7 +23,7 @@
 						<header>
 							<h2>Hey.</h2>
 						</header>
-						<p>Welcome to <strong>TAERANG</strong> designed by html5up</p>
+						<p>Welcome too <strong>TAERANG</strong> designed by html5up</p>
 						<footer>
 							<a href="#one" class="button style2 down">More</a>
 						</footer>
