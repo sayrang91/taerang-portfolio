@@ -187,4 +187,7 @@
 			}
 		}
 
-		ReactDOM.render(<App />, document.getElementById('root'));
+
+		const root = document.getElementById('root');
+		ReactDOM.render(<App />, root);
+		ReactDOM.unmountComponentAtNode(root);
