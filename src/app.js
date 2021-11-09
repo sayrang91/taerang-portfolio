@@ -190,4 +190,4 @@
 
 		const root = document.getElementById('root');
 		ReactDOM.render(<App />, root);
-		ReactDOM.unmountComponentAtNode(root);
+		// ReactDOM.unmountComponentAtNode(root);
